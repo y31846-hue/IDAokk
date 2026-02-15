@@ -1,0 +1,49 @@
+{
+  "proxies": [
+    {
+      "name": "IDA0kk有問題私聊",
+      "type": "vmess",
+      "server": "1",
+      "port": 10001,
+      "uuid": "1ce20536-3a6f-4751-9a46-3fd21c6fa62f",
+      "alterId": 0,
+      "cipher": "auto",
+      "udp": true,
+      "tls": true,
+      "skip-cert-verify": true,
+      "servername": "gw.alicdn.com",
+      "tfo": true,
+      "network": "tcp"
+    },
+    {
+      "name": "⚡專線獨享-日本國",
+      "type": "vmess",
+      "server": "jp2.cndns.stream",
+      "port": 443,
+      "uuid": "1ce20536-3a6f-4751-9a46-3fd21c6fa62f",
+      "alterId": 0,
+      "cipher": "auto",
+      "udp": true,
+      "tls": true,
+      "skip-cert-verify": true,
+      "servername": "gw.alicdn.com",
+      "tfo": true,
+      "network": "tcp"
+    },
+    {
+      "name": "⚡专线独享-台湾国",
+      "type": "vmess",
+      "server": "tw1.jiedian.stream",
+      "port": 443,
+      "uuid": "1ce20536-3a6f-4751-9a46-3fd21c6fa62f",
+      "alterId": 0,
+      "cipher": "auto",
+      "udp": true,
+      "tls": true,
+      "skip-cert-verify": true,
+      "servername": "gw.alicdn.com",
+      "tfo": true,
+      "network": "tcp"
+    }
+  ]
+}
